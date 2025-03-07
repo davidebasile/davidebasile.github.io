@@ -54,6 +54,7 @@ As of 2023, I have contributed approximately 50 peer-reviewed papers to conferen
 ## Program Committees:
 
 
+<a href="https://www.discotec.org/2025/forte">45th International Conference on Formal Techniques for Distributed Objects, Components, and Systems (FORTE 2025)</a><br>
 <a href="https://icsoft.scitevents.org/?y=2025">The 19th International Conference on Software Technologies (ICSOFT 2025)</a><br>
 <a href="https://enase.scitevents.org/ProgramCommittee.aspx">The 20th International Conference on Evaluation of Novel Approaches to Software Engineering (ENASE 2025)</a><br>
 <a href="https://futuretransport.eai-conferences.org/2024/">8th EAI International Conference on Intelligent Transport Systems (EAI INTSYS 2024)</a><br>
