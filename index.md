@@ -137,10 +137,10 @@ https://openportal.isti.cnr.it/results?qv=davide+basile</a>  (here you will find
 <em>Semantic Scholar</em>: <a href="https://www.semanticscholar.org/author/D.-Basile/143672390" class="urlextern" target="_blank"  rel="ugc nofollow noopener">D.-Basile/143672390 </a><br>
 <em>DBLP</em>: <a href="https://dblp.org/pid/135/0129.html" class="urlextern" target="_blank" rel="ugc nofollow noopener">https://dblp.org/pid/135/0129.html</a><br>
 <em>Orcid ID</em>: <a href="http://orcid.org/0000-0002-7196-6609" class="urlextern" target="_blank" title="http://orcid.org/0000-0002-7196-6609" rel="ugc nofollow noopener">0000-0002-7196-6609 </a><br>
-<em>Publons</em>: <a href="https://publons.com/researcher/3816518/davide-basile/peer-review/">AAX-1112-2020</a> (list of verified peer reviews in journals)<br>
+<!--em>Publons</em>: <a href="https://publons.com/researcher/3816518/davide-basile/peer-review/">AAX-1112-2020</a> (list of verified peer reviews in journals)<br-->
 
 #### Social networks:
-<em>LinkedIn</em>: <a href="https://www.linkedin.com/in/davide-basile-4179a74b" class="urlextern" target="_blank" title="https://www.linkedin.com/in/davide-basile-4179a74b" rel="ugc nofollow noopener">in/davide-basile-4179a74b </a>  (info on my previous jobs and education are available here)<br>
+<em>LinkedIn</em>: <a href="https://www.linkedin.com/in/davide-basile-4179a74b" class="urlextern" target="_blank" title="https://www.linkedin.com/in/davide-basile-4179a74b" rel="ugc nofollow noopener">in/davide-basile-4179a74b </a> <br>
 <em>Twitter Page:</em> <a href="https://twitter.com/davidebasile/" class="urlextern" target="_blank" title="https://twitter.com/davidebasile/" rel="ugc nofollow noopener">
 https://twitter.com/davidebasile/</a>
 
