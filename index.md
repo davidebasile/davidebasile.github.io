@@ -53,7 +53,8 @@ As of 2023, I have contributed approximately 50 peer-reviewed papers to conferen
 
 ## Program Committees:
 
-<a href="https://fmics2025-ag-sks-websites-135be46425c7ded8977ddfe65ca7e22ac5bee.zivgitlabpages.uni-muenster.de//pcmembers/">The 30th International Conference on Formal Methods for Industrial Critical Systems (FMICS 2025)</a><br>
+<a href="https://sbmf2025.ufrpe.br/">28th Brazilian Symposium on Formal Methods (SBMF 2025)</a><br>
+<a href="https://link.springer.com/book/10.1007/978-3-032-00942-5">The 30th International Conference on Formal Methods for Industrial Critical Systems (FMICS 2025)</a><br>
 <a href="https://www.discotec.org/2025/forte">The 45th International Conference on Formal Techniques for Distributed Objects, Components, and Systems (FORTE 2025)</a><br>
 <a href="https://icsoft.scitevents.org/?y=2025">The 19th International Conference on Software Technologies (ICSOFT 2025)</a><br>
 <a href="https://enase.scitevents.org/ProgramCommittee.aspx">The 20th International Conference on Evaluation of Novel Approaches to Software Engineering (ENASE 2025)</a><br>
