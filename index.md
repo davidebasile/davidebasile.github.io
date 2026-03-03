@@ -28,7 +28,7 @@ E-mail : <a href="mailto:&#100;&#97;&#118;&#105;&#100;&#101;&#46;&#98;&#97;&#115
 <a href="https://www.irif.fr/~haberm/haindex.html">ha-index</a>: 78
 
 <p align="justify">
-I am a permanent researcher at the <a href="https://www.fmt.isti.cnr.it/">Formal Methods && Tools Laboratory (FMT-lab)</a> of the <a href="https://www.isti.cnr.it/en/">Institute of Information Science and Technology (ISTI)</a> of the <a href="https://www.cnr.it/en">National Research Council (CNR)</a> in Pisa, Italy. 
+I am a researcher at the <a href="https://www.fmt.isti.cnr.it/">Formal Methods && Tools Laboratory (FMT-lab)</a> of the <a href="https://www.isti.cnr.it/en/">Institute of Information Science and Technology (ISTI)</a> of the <a href="https://www.cnr.it/en">National Research Council (CNR)</a> in Pisa, Italy. 
 </p>
 <p align="justify">
 I earned my Bachelor, Master and Ph.D. degrees in Computer Science at the Department of Computer Science of the University of Pisa. 
