@@ -130,7 +130,7 @@ https://openportal.isti.cnr.it/results?qv=davide+basile</a>  (here you will find
 #### Institutional webpages:
 <em>National Research Council (CNR)</em>: <a href="https://www.cnr.it/people/davide.basile" class="urlextern" target="_blank" title="https://www.cnr.it/people/davide.basile" rel="ugc nofollow noopener">https://www.cnr.it/people/davide.basile</a>  (my CV is available on this site)<br>
 <em>Institute of Information Science and Technologies (ISTI)</em>: <a href="https://www.isti.cnr.it/en/about/people-detail/516/Davide_Basile" class="urlextern" target="_blank" title="https://www.isti.cnr.it/en/about/people-detail/516/Davide_Basile" rel="ugc nofollow noopener">https://www.isti.cnr.it/en/about/people-detail/516/Davide_Basile</a><br>
-<em>Formal Methods && Tools Lab</em>: <a href="https://fmt.isti.cnr.it/~davidebasile" class="urlextern" target="_blank" rel="ugc nofollow noopener">https://fmt.isti.cnr.it/~davidebasile</a>  (redirect to this page)<br>
+<!--em>Formal Methods && Tools Lab</em>: <a href="https://fmt.isti.cnr.it/~davidebasile" class="urlextern" target="_blank" rel="ugc nofollow noopener">https://fmt.isti.cnr.it/~davidebasile</a>  (redirect to this page)<br-->
 <!--em>University of Pisa</em>: <a href="http://pages.di.unipi.it/basile/" class="urlextern" target="_blank" title="http://pages.di.unipi.it/basile/" rel="ugc nofollow noopener">http://pages.di.unipi.it/basile/</a><br-->
 <!--em>University of Florence</em>: <a href="https://web.archive.org/web/20210118104605/https://www.unifi.it/p-doc2-2018-0-A-2c3338313627-1.html" class="urlextern" target="_blank" title="https://www.unifi.it/p-doc2-2018-0-A-2c3338313627-1.html" rel="ugc nofollow noopener">https://www.unifi.it/p-doc2-2018-0-A-2c3338313627-1.html</a><br-->
 
