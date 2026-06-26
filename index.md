@@ -53,7 +53,7 @@ As of 2023, I have contributed approximately 50 peer-reviewed papers to conferen
 
 ## Program Committees:
 
-
+<a href="https://conf.researchr.org/track/variability-2026/variability-2026-doctoral-symposium">International Conference on Software and Systems Reuse, Product Lines, and Configuration (VARIABILITY 2026 - Doctoral Symposium Track)</a><br>
 <a href="https://eapls.org/news/workshops/cfp-mars26-7th-etaps-workshop-on-models-for-formal-analysis-of-real-systems-kpwjr/">7th ETAPS workshop on Models for formal analysis of real systems (MARS 2026)</a><br>
 <a href="https://rssrail2025.isti.cnr.it/">6th International Conference on Reliability, Safety, and Security of Railway Systems (RSSRail 2025)</a><br>
 <a href="https://sbmf2025.ufrpe.br/">28th Brazilian Symposium on Formal Methods (SBMF 2025)</a><br>
