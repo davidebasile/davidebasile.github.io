@@ -35,7 +35,7 @@ I earned my Bachelor, Master and Ph.D. degrees in Computer Science at the Depart
 My Ph.D. studies also involved a collaboration with the Department of Computer Science at the University of Leicester in the United Kingdom.
 Starting in 2015, I became a member of the FMT lab, initially as a temporary research fellow, and later as a research associate. 
 From 2017 to 2019, I held positions as a post-doctoral researcher and later as an assistant professor (RTD-a) at the University of Florence. 
-Since November 2019, I have held a permanent researcher position at the FMT lab of ISTI CNR, upgraded to senior researcher in 2023.
+Since November 2019, I have held a permanent researcher position at the FMT lab of ISTI CNR, upgraded to senior researcher in 2025.
 </p>
 <!--p align="justify">
 My Ph.D. thesis <a href="https://etd.adm.unipi.it/t/etd-05232016-100710/">Specification and Verification of Contract-Based Applications</a> introduces a new automata-based formalism for behavioural contracts exploiting results from Supervisory Control Theory for Discrete Event Systems and Mixed Integer Linear Programming. These techniques are adapted to verify and synthesise ensembles of contracts with differerent well-behaving properties and coordination paradigms. The formalism is proved to be in relation with two Horn Fragments of dialects of Intuitionitistics Logics introduced to model contracts with debits. 
